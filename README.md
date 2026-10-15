@@ -42,4 +42,4 @@ The profile lives at the app config dir (`daedric-companion/profile.json`). Date
 
 ## License
 
-Apache-2.0. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). Tags before this change stay Apache-2.0.
