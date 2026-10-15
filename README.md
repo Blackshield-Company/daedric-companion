@@ -1,3 +1,5 @@
+![daedric-companion](.github/preview.png)
+
 # Daedric Companion
 
 Desktop companion for the [Daedric Online](https://daedriconline.com) Skyrim SE roleplay server.
